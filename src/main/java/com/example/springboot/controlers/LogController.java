@@ -1,4 +1,4 @@
-package com.example.springboot.controllers;
+package com.example.springboot.controlers;
 
 import com.example.springboot.services.LogAnalyzerService;
 import org.springframework.http.ResponseEntity;
